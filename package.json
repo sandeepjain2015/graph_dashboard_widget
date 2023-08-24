@@ -1,0 +1,21 @@
+{
+	"name": "graph-dashboard-widget",
+	"version": "1.0.0",
+	"description": "Here is a short description of the plugin. ",
+	"main": "build/index.js",
+	"author": "",
+	"license": "ISC",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^24.3.0"
+	},
+	"dependencies": {
+		"recharts": "^2.7.3"
+	}
+}
