@@ -5,11 +5,11 @@
 ![PHP Version](https://img.shields.io/badge/php-7.0%2B-blue.svg)
 [![License](https://img.shields.io/badge/license-GPL--2.0--or--later-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
-> Example block scaffolded with Create Block tool.
+> Custom dashboard graph widget with gutunburg library .
 
 ## Description
 
-Graph Dashboard Widget is a WordPress plugin that demonstrates how to create a custom block using the Create Block tool. It adds a dashboard widget with a graph visualization to the WordPress dashboard.
+Graph Dashboard Widget is a WordPress plugin that demonstrates how to create a custom widget using the gutunburg library. It adds a dashboard widget with a graph visualization to the WordPress dashboard.
 
 ## Features
 
