@@ -13,7 +13,6 @@ Graph Dashboard Widget is a WordPress plugin that demonstrates how to create a c
 
 ## Features
 
-- Create a custom block using Create Block.
 - Display a graph visualization in a dashboard widget.
 - Support for WordPress version 6.1 and above.
 - Requires PHP version 7.0 or later.
@@ -39,8 +38,3 @@ This project is licensed under the GPL-2.0-or-later License - see the [LICENSE](
 ## Contact
 
 For support or inquiries, please contact Sandeep Jain via GitHub.
-
-## Acknowledgments
-
-- This plugin was scaffolded using the Create Block tool.
-- Special thanks to the WordPress community for inspiration and guidance.
